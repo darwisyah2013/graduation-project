@@ -50,7 +50,7 @@ h1 {
 }
 
 .post:hover {
-    color: red;
+    color: rgba(247, 103, 8, 0.877);
 }
 
 .post h3 {
